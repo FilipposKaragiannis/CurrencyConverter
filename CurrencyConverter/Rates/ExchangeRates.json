@@ -1,0 +1,32 @@
+[
+  {
+    "t": "copper",
+    "s": "gold",
+    "ta": 1,
+    "sa": 50
+  },
+  {
+    "t": "gold",
+    "s": "platinum",
+    "ta": 1,
+    "sa": 10
+  },
+  {
+    "t": "platinum",
+    "s": "steel",
+    "ta": 2,
+    "sa": 1
+  },
+  {
+    "t": "gold",
+    "s": "iron",
+    "ta": 3,
+    "sa": 5
+  },
+  {
+    "t": "iron",
+    "s": "steel",
+    "ta": 1,
+    "sa": 4
+  }
+]
